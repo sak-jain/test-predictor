@@ -2,3 +2,4 @@ This is the first text file that is used for making the prediction of text cases
 new change
 Take 2
 take 3
+take4
