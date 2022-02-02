@@ -5,3 +5,4 @@ sinpke 3
 test 1
 simple 4
 simple 5
+simple 6
