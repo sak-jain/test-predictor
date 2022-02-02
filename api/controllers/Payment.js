@@ -1,3 +1,3 @@
 function msg(){  
- log("This is Payment controller");  
+ log("This is Payment controller.");  
 }  
