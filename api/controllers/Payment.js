@@ -1,3 +1,3 @@
 function msg(){  
- log("This is Payment controller class demo.");  
+ log("This is Payment controller class demo test.");  
 }  
